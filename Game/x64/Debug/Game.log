@@ -1,0 +1,4 @@
+﻿  Bullet.cpp
+C:\Users\Incri\source\repos\Daytime starfall\Game\Bullet.cpp(50,53): warning C4244: аргумент: преобразование "float" в "const short", возможна потеря данных
+C:\Users\Incri\source\repos\Daytime starfall\Game\Bullet.cpp(50,43): warning C4244: аргумент: преобразование "float" в "const short", возможна потеря данных
+  Game.vcxproj -> C:\Users\Incri\source\repos\Daytime starfall\x64\Debug\Game.exe

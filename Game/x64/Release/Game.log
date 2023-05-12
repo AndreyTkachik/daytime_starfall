@@ -1,0 +1,9 @@
+﻿  OrdStar.cpp
+C:\Users\Incri\source\repos\kt_progect\code\Game\OrdStar.cpp(102,47): warning C4244: аргумент: преобразование "float" в "const short", возможна потеря данных
+C:\Users\Incri\source\repos\kt_progect\code\Game\OrdStar.cpp(102,37): warning C4244: аргумент: преобразование "float" в "const short", возможна потеря данных
+  Создание кода
+  1 of 828 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Game.vcxproj -> C:\Users\Incri\source\repos\kt_progect\code\x64\Release\Game.exe
