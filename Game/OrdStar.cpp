@@ -50,7 +50,7 @@ void OrdStar::die(const unsigned char i_death_type)
 	{
 	case 0:
 	{
-		//Instant death. Setting dead to 1 will immediately delete the object. NILL KIGGERS
+		//Instant death. Setting dead to 1 will immediately delete the object.
 		dead = 1;
 
 		break;
