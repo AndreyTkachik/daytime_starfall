@@ -42,8 +42,6 @@ void PowerUp::set_dead(const bool i_value)
 
 void PowerUp::update(const unsigned i_view_x, const MapManager& i_map_manager)
 {
-	//Mushrooms behave the same way Goombas do so go check out the OrdStar class.
-
 	if (0 == dead)
 	{
 		if (-CELL_SIZE < y && x >= static_cast<int>(i_view_x) - CELL_SIZE - ENTITY_UPDATE_AREA && x < ENTITY_UPDATE_AREA + SCREEN_WIDTH + i_view_x && y < SCREEN_HEIGHT)
